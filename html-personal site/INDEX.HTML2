@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Pratham's persional site</title>
+  </head>
+  <body>
+    <h1><strong>Isaac Newton</strong></h1>
+    </hr>
+    <h5>Created by <i>PRATHAM</i></h5>
+    <p>This article is about the scientist and mathematician. For the American agriculturalist, see Isaac Newton (agriculturalist). For things honouring the scientist and mathematician, see List of things named after Isaac Newton.</p>
+        <hr size=5>
+        <p>Sir Isaac Newton PRS (25 December 1642 – 20 March 1726/27[a]) was an English mathematician, physicist, astronomer, theologian, and author (described in his time as a "natural philosopher") widely recognised as one of the greatest mathematicians, physicists, and most influential scientists of all time. He was a key figure in the philosophical revolution known as the Enlightenment. His book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, established classical mechanics. Newton also made seminal contributions to optics, and shares credit with German mathematician Gottfried Wilhelm Leibniz for developing infinitesimal calculus.</p>
+        <ul>
+          Newton law:
+          <li>law of inertia</li>
+          <li>Law of Mass and Acceleration</li>
+          <li> Law of Motion</li>
+        </ul>
+  </body>
+</html>
